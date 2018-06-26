@@ -1,0 +1,21 @@
+#checkout{
+	margin-top:15px;
+	}
+#checkout table{
+	font-size:12px;
+	margin:15px 0;
+	}	
+#checkout table thead th{
+	color:#000;
+	text-transform:capitalize;
+	}
+#checkout table tr td span{
+	color:#C40000;
+	}	
+#custom-form{
+	padding:0;
+	margin:15px 0;
+	}
+#custom-form form input{
+	border-radius:0;
+	}
